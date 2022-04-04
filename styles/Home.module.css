@@ -1,0 +1,36 @@
+.main {
+  padding: 2rem 0;
+}
+
+.title {
+  font-size: 4rem;
+  line-height: 2;
+  margin: 0;
+  text-align: center;
+}
+
+.form {
+  margin: 0 auto;
+  width: 80vw;
+}
+
+.form label {
+  font-weight: 700;
+}
+
+.form textarea {
+  display: block;
+  font-family: Consolas;
+  height: 25vh;
+  margin: 0 auto 1.5rem;
+  width: 75vw;
+}
+
+.form input {
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.figure {
+  text-align: center;
+}
